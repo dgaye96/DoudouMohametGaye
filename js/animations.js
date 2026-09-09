@@ -1,0 +1,1 @@
+const reducedMotion=window.matchMedia('(prefers-reduced-motion: reduce)');document.documentElement.classList.toggle('reduced-motion',reducedMotion.matches);reducedMotion.addEventListener?.('change',event=>document.documentElement.classList.toggle('reduced-motion',event.matches));
