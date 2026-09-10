@@ -60,6 +60,7 @@ const FR = {
   "Collaboration": "Collaboration", "& Knowledge": "& connaissance",
   "SharePoint, Microsoft 365 and knowledge systems that help teams move together.": "SharePoint, Microsoft 365 et systèmes de connaissance qui font avancer les équipes ensemble.",
   "Strategy · UX · Impact": "Stratégie · UX · Impact", "Power BI · SQL · Data": "Power BI · SQL · Données",
+  "Strategy": "Stratégie", "Impact": "Impact", "Data Management": "Gestion des données",
 
   // Featured project
   "03 / Selected work": "03 / Travaux sélectionnés", "Built to make": "Conçu pour rendre", "things clearer.": "les choses claires.",
