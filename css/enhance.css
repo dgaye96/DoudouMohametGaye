@@ -244,6 +244,18 @@ body:after{content:'';position:fixed;inset:0;z-index:9998;pointer-events:none;op
 [data-theme=light] .capability-card:hover{box-shadow:0 24px 50px -34px rgba(7,17,31,.45)}
 [data-theme=light] .terminal,[data-theme=light] .feature-project{box-shadow:0 30px 60px -46px rgba(7,17,31,.5)}
 
-@media(max-width:900px){.tech-section,.terminal-section{padding-bottom:95px}.tech-head{display:block}.tech-head p{text-align:left;margin-top:16px}}
-@media(max-width:560px){.tech-section,.terminal-section{padding-bottom:75px}.terminal-body{font-size:11px;padding:18px 15px}.terminal-commands{padding:12px 15px}.cta-frame:after{display:none}}
+@media(max-width:900px){
+  .tech-section,.terminal-section{padding-bottom:95px}
+  .tech-head{display:block}
+  .tech-head p{text-align:left;margin-top:16px}
+  .capability-grid{grid-template-columns:repeat(2,1fr);gap:16px}
+}
+@media(max-width:600px){
+  .capability-grid{grid-template-columns:1fr;gap:16px}
+  .capability-card{padding:24px 20px;min-height:auto}
+  .tech-section,.terminal-section{padding-bottom:75px}
+  .terminal-body{font-size:11px;padding:18px 15px}
+  .terminal-commands{padding:12px 15px}
+  .cta-frame:after{display:none}
+}
 @media(prefers-reduced-motion:reduce){.tech-row{animation:none}.button:after{display:none}}
