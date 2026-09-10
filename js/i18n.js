@@ -219,6 +219,7 @@ const FR = {
   "Bachelor / Applied Mathematics & Computer Science": "Licence / Mathématiques appliquées & informatique",
   "AI for Business / 2021": "IA pour l'entreprise / 2021",
   "05 / LANGUAGES": "05 / LANGUES", "Wolof · French · English": "Wolof · Français · Anglais",
+  "Wolof / Native": "Wolof / Langue maternelle", "French / Fluent": "Français / Courant", "English / Fluent": "Anglais / Courant",
   "A multilingual foundation for international collaboration across Senegal and the West and Central Africa region.": "Une base multilingue pour la collaboration internationale au Sénégal et en Afrique de l'Ouest et du Centre.",
   "CV / Delivery profile": "CV / Profil de réalisation", "More than": "Plus que", "job titles.": "des intitulés.",
   "Practical responsibilities that connect technology, operations and adoption.": "Des responsabilités concrètes reliant technologie, opérations et adoption.",
