@@ -5,6 +5,7 @@ const FR = {
   "Home": "Accueil", "About": "À propos", "Experience": "Expérience", "Projects": "Projets", "Contact": "Contact",
   "Light": "Clair", "Dark": "Sombre", "Open menu": "Ouvrir le menu", "Switch color theme": "Changer le thème de couleur",
   "Doudou Mohamet GAYE home": "Accueil Doudou Mohamet GAYE",
+  "INITIALIZING SYSTEM": "INITIALISATION DU SYSTÈME",
 
   // Hero
   "Digital impact / AI / Automation / Data": "Impact numérique / IA / Automatisation / Données",
