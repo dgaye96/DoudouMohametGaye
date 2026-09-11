@@ -1,1 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://doudoumohametgaye.com/</loc></url><url><loc>https://doudoumohametgaye.com/about.html</loc></url><url><loc>https://doudoumohametgaye.com/experience.html</loc></url><url><loc>https://doudoumohametgaye.com/projects.html</loc></url><url><loc>https://doudoumohametgaye.com/contact.html</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://doudoumohametgaye.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://doudoumohametgaye.com/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://doudoumohametgaye.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://doudoumohametgaye.com/"/>
+  </url>
+  <url>
+    <loc>https://doudoumohametgaye.com/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://doudoumohametgaye.com/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://doudoumohametgaye.com/fr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://doudoumohametgaye.com/about.html"/>
+  </url>
+  <url>
+    <loc>https://doudoumohametgaye.com/experience.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://doudoumohametgaye.com/experience.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://doudoumohametgaye.com/fr/experience.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://doudoumohametgaye.com/experience.html"/>
+  </url>
+  <url>
+    <loc>https://doudoumohametgaye.com/projects.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://doudoumohametgaye.com/projects.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://doudoumohametgaye.com/fr/projects.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://doudoumohametgaye.com/projects.html"/>
+  </url>
+  <url>
+    <loc>https://doudoumohametgaye.com/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://doudoumohametgaye.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://doudoumohametgaye.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://doudoumohametgaye.com/contact.html"/>
+  </url>
+  <url>
+    <loc>https://doudoumohametgaye.com/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://doudoumohametgaye.com/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://doudoumohametgaye.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://doudoumohametgaye.com/"/>
+  </url>
+  <url>
+    <loc>https://doudoumohametgaye.com/fr/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://doudoumohametgaye.com/about.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://doudoumohametgaye.com/fr/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://doudoumohametgaye.com/about.html"/>
+  </url>
+  <url>
+    <loc>https://doudoumohametgaye.com/fr/experience.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://doudoumohametgaye.com/experience.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://doudoumohametgaye.com/fr/experience.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://doudoumohametgaye.com/experience.html"/>
+  </url>
+  <url>
+    <loc>https://doudoumohametgaye.com/fr/projects.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://doudoumohametgaye.com/projects.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://doudoumohametgaye.com/fr/projects.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://doudoumohametgaye.com/projects.html"/>
+  </url>
+  <url>
+    <loc>https://doudoumohametgaye.com/fr/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://doudoumohametgaye.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://doudoumohametgaye.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://doudoumohametgaye.com/contact.html"/>
+  </url>
+</urlset>
+

@@ -1,0 +1,12 @@
+{
+  "name": "doudoumohametgaye-site",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Personal site of Doudou Mohamet GAYE.",
+  "scripts": {
+    "build:fr": "node tools/build-fr.js"
+  },
+  "devDependencies": {
+    "jsdom": "^24.1.3"
+  }
+}

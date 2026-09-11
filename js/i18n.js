@@ -137,7 +137,50 @@ const FR = {
   "Web Development / UX/UI / UNICEF": "Développement web / UX-UI / UNICEF",
   "T4D / Regional Digital Initiatives": "T4D / Initiatives numériques régionales",
   "Digital Impact Associate / AI + Transformation": "Digital Impact Associate / IA + transformation",
-  "03 / Research & future": "03 / Recherche & avenir",
+
+  // About — expertise domains
+  "03 / Expertise": "03 / Expertise", "Domains of": "Domaines", "expertise.": "d'expertise.",
+  "Digital transformation & impact": "Transformation numérique & impact",
+  "AI, data & intelligence": "IA, données & intelligence",
+  "Automation & Power Platform": "Automatisation & Power Platform",
+  "Software engineering": "Ingénierie logicielle",
+  "Solution design & delivery": "Conception & livraison de solutions",
+  "Strategy, innovation & knowledge": "Stratégie, innovation & connaissance",
+  "Platforms & operations": "Plateformes & opérations",
+  "Digital Transformation": "Transformation numérique",
+  "ICT4D": "TIC pour le développement (ICT4D)",
+  "Technology for Development": "Technologie au service du développement",
+  "Digital Public Goods": "Biens publics numériques",
+  "Digital Service Delivery": "Fourniture de services numériques",
+  "Process Digitalization": "Digitalisation des processus",
+  "Artificial Intelligence (AI)": "Intelligence artificielle (IA)",
+  "Data & Analytics": "Données & analytique",
+  "Business Intelligence": "Informatique décisionnelle",
+  "Data Visualization": "Visualisation des données",
+  "Dashboard Development": "Développement de tableaux de bord",
+  "Database Management": "Gestion des bases de données",
+  "Business Process Automation": "Automatisation des processus métier",
+  "Workflow Automation": "Automatisation des flux de travail",
+  "Software Engineering": "Ingénierie logicielle",
+  "Web Development": "Développement web",
+  "Full-Stack Development": "Développement Full-Stack",
+  "Solution Design": "Conception de solutions",
+  "System Integration": "Intégration de systèmes",
+  "Systems Analysis": "Analyse des systèmes",
+  "Requirements Analysis": "Analyse des besoins",
+  "Digital Product Development": "Développement de produits numériques",
+  "Digital Solutions": "Solutions numériques",
+  "UX/UI Design": "Conception UX/UI",
+  "Digital Innovation": "Innovation numérique",
+  "Innovation Management": "Gestion de l'innovation",
+  "Technology Strategy": "Stratégie technologique",
+  "Knowledge Management": "Gestion des connaissances",
+  "IT Project Management": "Gestion de projets informatiques",
+  "Cloud & Digital Platforms": "Cloud & plateformes numériques",
+  "Cybersecurity": "Cybersécurité",
+  "ICT Support": "Support informatique",
+
+  "04 / Research & future": "04 / Recherche & avenir",
   "Researching the next generation of": "Rechercher la prochaine génération de",
   "intelligent systems.": "systèmes intelligents.",
   "Medical image": "Image médicale", "Computer vision": "Vision par ordinateur", "AI model": "Modèle d'IA", "Interpretation": "Interprétation",
@@ -238,11 +281,15 @@ const FR = {
 
   // Document metadata
   "Doudou Mohamet GAYE | Digital Impact, AI & Digital Transformation": "Doudou Mohamet GAYE | Impact numérique, IA & transformation numérique",
-  "About | Doudou Mohamet GAYE": "À propos | Doudou Mohamet GAYE",
-  "Experience | Doudou Mohamet GAYE": "Expérience | Doudou Mohamet GAYE",
-  "Projects | Doudou Mohamet GAYE": "Projets | Doudou Mohamet GAYE",
-  "Contact | Doudou Mohamet GAYE": "Contact | Doudou Mohamet GAYE",
-  "Doudou Mohamet GAYE is a Digital Impact professional specializing in AI, digital transformation, automation, data solutions, Power Platform and software engineering.": "Doudou Mohamet GAYE est un professionnel de l'impact numérique spécialisé en IA, transformation numérique, automatisation, solutions de données, Power Platform et génie logiciel."
+  "About | Doudou Mohamet GAYE — Digital Transformation, AI & ICT4D": "À propos | Doudou Mohamet GAYE — Transformation numérique, IA & TIC pour le développement",
+  "Experience | Doudou Mohamet GAYE — Digital Transformation & IT Project Management": "Expérience | Doudou Mohamet GAYE — Transformation numérique & gestion de projets informatiques",
+  "Projects | Doudou Mohamet GAYE — AI, Power Platform & Web Development": "Projets | Doudou Mohamet GAYE — IA, Power Platform & développement web",
+  "Contact | Doudou Mohamet GAYE — Digital Impact & Technology": "Contact | Doudou Mohamet GAYE — Impact numérique & technologie",
+  "Doudou Mohamet GAYE is a Digital Impact professional specializing in digital transformation, ICT4D, artificial intelligence, data & analytics, business intelligence, Power Platform automation, software engineering and digital solutions.": "Doudou Mohamet GAYE est un professionnel de l'impact numérique spécialisé en transformation numérique, TIC pour le développement (ICT4D), intelligence artificielle, données & analytique, informatique décisionnelle, automatisation Power Platform, ingénierie logicielle et solutions numériques.",
+  "The work, perspective and research of Doudou Mohamet GAYE: digital transformation, ICT4D, artificial intelligence, knowledge management, UX/UI design and software engineering.": "Le travail, la perspective et la recherche de Doudou Mohamet GAYE : transformation numérique, TIC pour le développement, intelligence artificielle, gestion des connaissances, conception UX/UI et ingénierie logicielle.",
+  "Professional experience and recognitions of Doudou Mohamet GAYE in digital transformation, IT project management, systems analysis, Power Platform automation, business intelligence and ICT support.": "Expérience professionnelle et distinctions de Doudou Mohamet GAYE en transformation numérique, gestion de projets informatiques, analyse des systèmes, automatisation Power Platform, informatique décisionnelle et support informatique.",
+  "Case studies by Doudou Mohamet GAYE in artificial intelligence, digital impact, Power BI dashboard development, Power Platform automation, web development and system integration.": "Études de cas de Doudou Mohamet GAYE en intelligence artificielle, impact numérique, développement de tableaux de bord Power BI, automatisation Power Platform, développement web et intégration de systèmes.",
+  "Connect with Doudou Mohamet GAYE about digital transformation, ICT4D, artificial intelligence, data solutions, digital innovation and technology projects.": "Contactez Doudou Mohamet GAYE pour la transformation numérique, les TIC pour le développement, l'intelligence artificielle, les solutions de données, l'innovation numérique et les projets technologiques."
 };
 
 const CONTEXT = [
@@ -301,9 +348,9 @@ const translateAttributes = toFrench => {
   });
 };
 
-const apply = () => {
+const apply = scope => {
   const toFrench = document.documentElement.lang === 'fr';
-  const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
+  const walker = document.createTreeWalker(scope || document.body, NodeFilter.SHOW_TEXT, {
     acceptNode(node) {
       const parent = node.parentElement;
       if (!parent || SKIP.has(parent.tagName)) return NodeFilter.FILTER_REJECT;
@@ -314,6 +361,7 @@ const apply = () => {
   const nodes = [];
   while (walker.nextNode()) nodes.push(walker.currentNode);
   nodes.forEach(node => applyTo(node, toFrench));
+  if (scope) return;
   translateAttributes(toFrench);
 
   if (!document.documentElement.dataset.i18nTitle) {
@@ -342,27 +390,22 @@ window.dmgI18n = {
   apply
 };
 
-const setLanguage = lang => {
-  document.documentElement.lang = lang;
-  localStorage.setItem('dmg-lang', lang);
-  apply();
-  const toggle = document.querySelector('.lang-toggle');
-  if (toggle) {
-    toggle.textContent = lang === 'fr' ? 'EN' : 'FR';
-    toggle.setAttribute('aria-label', lang === 'fr' ? 'Switch to English' : 'Passer en français');
-  }
-  document.dispatchEvent(new CustomEvent('dmg:lang', { detail: { lang } }));
-};
-
 const langNav = document.querySelector('.main-nav');
 const langThemeButton = document.querySelector('.theme-toggle');
 if (langNav) {
-  const toggle = document.createElement('button');
-  toggle.type = 'button';
+  const onFrenchPage = document.documentElement.lang === 'fr';
+  const page = location.pathname.split('/').pop() || 'index.html';
+  const toggle = document.createElement('a');
   toggle.className = 'lang-toggle';
-  toggle.addEventListener('click', () => setLanguage(document.documentElement.lang === 'fr' ? 'en' : 'fr'));
+  toggle.href = onFrenchPage ? `../${page}` : `fr/${page}`;
+  toggle.hreflang = onFrenchPage ? 'en' : 'fr';
+  toggle.textContent = onFrenchPage ? 'EN' : 'FR';
+  toggle.setAttribute('aria-label', onFrenchPage ? 'Switch to English' : 'Passer en français');
   langNav.insertBefore(toggle, langThemeButton || null);
 }
 
-setLanguage(localStorage.getItem('dmg-lang') === 'fr' ? 'fr' : 'en');
-addEventListener('load', apply);
+// Pages under /fr/ are pre-translated by tools/build-fr.js; only script-injected markup is left.
+if (document.documentElement.lang === 'fr') {
+  document.querySelectorAll('.cv-facts').forEach(section => apply(section));
+  document.dispatchEvent(new CustomEvent('dmg:lang', { detail: { lang: 'fr' } }));
+}
